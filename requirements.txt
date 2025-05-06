@@ -1,0 +1,4 @@
+ollama
+pillow
+pandas
+llama3.2-vision:11b-instruct-q4_K_M
